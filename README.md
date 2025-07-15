@@ -18,7 +18,8 @@
 
 三、数字大屏展示
 
-![2M以内文件](https://github.com/user-attachments/assets/75c9a32e-06fc-4f1a-b347-806293a8e3bc)
+![028](https://github.com/user-attachments/assets/dd66c89a-32ee-45a6-ad8d-c368a62ae6e4)
+
 
 
 四、数据采集原理
